@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there I’m danizml
 
-<!--
-**danizml/danizml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*  I’m currently working on `danizml web` and `python NeuronalNetwork`
+*  I’m currently learning `python`, `JavaScrypt`, `HTML & CSS`
 
-Here are some ideas to get you started:
+## I know:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🟡: `C#`
+* 🟢: `Java`, `C`
+
+## You can follow me on:
+
+* [Discord](https://discord.gg/WgfrE5hwMj) Developer community
+* [Instagram](https://www.instagram.com/danizml/) Personal account
+* [Uiverse](https://uiverse.io/profile/danizml) CSS layouts
+* [danizml.dev](https://danizml.dev/) Developer web `Coming soon`
+* dev.danizml@gmail.com Developer gmail contact
