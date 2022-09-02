@@ -1,11 +1,11 @@
 ## Hi there I’m danizml
 
 *  I’m currently working on `danizml web` and `python NeuronalNetwork`
-*  I’m currently learning `python`, `JavaScrypt`, `HTML & CSS`
+*  I’m currently learning `python`, `JavaScript`, `HTML & CSS`
 
 ## I know:
 
-* 🟡: `C#`
+* 🟡: `C#`, `JavaScript`
 * 🟢: `Java`, `C`
 
 ## You can follow me on:
