@@ -1,7 +1,7 @@
 ## Hi there I’m danizml
 
-*  I’m currently working on `danizml web` and `python NeuronalNetwork`
-*  I’m currently learning `python`, `HTML & CSS`
+*  I’m currently working on `danizml web`
+*  I’m currently learning, `HTML & CSS`
 
 ## I know:
 
