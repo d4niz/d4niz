@@ -5,8 +5,8 @@
 
 ## I know:
 
-* 🟡: `C#`, `JavaScript`
-* 🟢: `Java`, `C`
+* `C#`, `JavaScript`
+* `Java`, `C`
 
 ## You can follow me on:
 
