@@ -1,12 +1,8 @@
-## Hi there I’m danizml
-
-*  I’m currently working on `danizml web`
-*  I’m currently learning, `HTML & CSS`
-
-## I know:
-
-* `C#`, `JavaScript`
-* `Java`, `C`
+<div align="center">
+  <a href="https://github.com/danizml">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danizml&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danizml&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## You can follow me on:
 
