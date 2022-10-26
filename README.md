@@ -11,8 +11,6 @@
 * [danizml.dev](https://danizml.dev/) Developer web `Coming soon`
 * dev.danizml@gmail.com Developer gmail contact
 
- ![](https://img.shields.io/discord/1016059838679236619?color=blue&label=online&logo=discord&logoColor=blue) ![](https://img.shields.io/github/followers/danizml?logo=github)
-
 ---
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/daniz_dev)
