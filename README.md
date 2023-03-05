@@ -3,4 +3,4 @@
 
 ---
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O2FXPSU)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O2FXPSU) ![Discord](https://img.shields.io/discord/1079131438370259035?color=blue&label=Discord&logo=Discord&logoColor=White)
