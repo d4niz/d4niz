@@ -1,6 +1,6 @@
 ## d4niz developer
 
-* Web [here](https://d4niz.dev/)
+* My personal api with a lot of utilitys like [Free-Captcha, SQL-acces and more] [API](https://d4niz.dev/)
 * Comercial contact here `dev.danizml@gmail.com`
 * Join discord support server [here](https://discord.gg/KWGWEA49ct)
 
