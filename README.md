@@ -7,4 +7,4 @@
 🔹17 years
 
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,figma,react,tailwind,nextjs,express,nodejs,mongodb,git,java" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,figma,react,tailwind,nextjs,express,nodejs,java" />
