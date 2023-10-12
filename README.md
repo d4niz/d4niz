@@ -5,3 +5,6 @@
 🔹Daniel Moreno Lopez
 
 🔹17 years
+
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,figma,react,tailwind,nextjs,express,nodejs,mongodb,git,java" />
