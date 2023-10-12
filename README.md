@@ -9,4 +9,4 @@
 
 ---
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,figma,react,tailwind,nextjs,express,nodejs,java" />
+<img src="https://skillicons.dev/icons?i=javascript,figma,react,tailwind,express,nodejs,java" />
