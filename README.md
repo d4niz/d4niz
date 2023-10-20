@@ -3,8 +3,6 @@
 ---
 🔹soixz
 
-🔹Daniel Moreno Lopez
-
 🔹17 years
 
 ---
