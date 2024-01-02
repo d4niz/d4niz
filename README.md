@@ -1,3 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=soixz.soixz" />
-
-<img src="https://skillicons.dev/icons?i=typescript,tailwind" />
+<div id="badges">
+  <a href="https://danilppzz.dev/">
+    <img src="https://img.shields.io/badge/-Portfolio-white?logoColor=white&style=for-the-badge" alt="Portfolio"
+  </a>
+</div>
