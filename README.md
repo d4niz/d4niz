@@ -3,15 +3,12 @@ A passionate backend developer with an innate love for programming and boundless
 
 <div align='center'>
   <a href="https://danilppzz.dev/">
-    <img src="https://img.shields.io/badge/-Portfolio-white?logoColor=white&style=for-the-badge" alt="Portfolio"
+    <img src="https://hono-badge-api.vercel.app/badge/default?color=pink&ct=dark&text=PORTFOLIO&rd=false" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/danilppzz/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://hono-badge-api.vercel.app/badge/default?color=white&ct=dark&text=LINKEDIN&rd=false" alt="Portfolio"/>
   </a>
   <a href="https://twitter.com/danilppzz/">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://hono-badge-api.vercel.app/badge/default?color=cyan&ct=dark&text=TWITTER&rd=false" alt="Portfolio"/>
   </a>
 </div>
-
-# 
-<div align='center'><a href='https://github.com/danilppzz/danilppzz/blob/main/LICENSE'>LICENSE</a></div>
