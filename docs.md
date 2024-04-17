@@ -16,6 +16,8 @@ DHCP has to be disabled
 
 > [Change IP in printers](#change-the-ip-in-printers)
 
+> [Open a port in router](#open-the-ports-in-the-router)
+
 > [Open a port](#Open-the-ports-to-remote-access)
 
 ## Change the IP in the computer
@@ -74,3 +76,6 @@ In this step select all check box.
 In the name you can choose whereever you want and same for the description.
 
 Now you can use the port to send conection.
+
+
+## Open the ports in the router
