@@ -53,3 +53,24 @@ to use very frequency
 
 
 ## Open the ports to remote access
+In this example we are going to open the port `22080` to allow external
+conexions and remote access.
+
+First we need to go to fire wall and then you navigate to advanced settings
+
+here are some rules, you have to select join rules and press new rule.
+
+
+Now we select the type, in this case we are going to choose port.
+Select TCP for this conection and the port to open is `22080`.
+
+Select allow conection if its save and press next.
+
+we are going to skip this step, but if you want to choose the users can use
+this you can and same with the next step.
+
+In this step select all check box.
+
+In the name you can choose whereever you want and same for the description.
+
+Now you can use the port to send conection.
