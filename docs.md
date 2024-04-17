@@ -16,6 +16,8 @@ DHCP has to be disabled
 
 > [Change IP in printers](#change-the-ip-in-printers)
 
+> [Open a port](#Open-the-ports-to-remote-access)
+
 ## Change the IP in the computer
 
 Now we have to change the IPv4 of our PC to a static one.
@@ -48,3 +50,6 @@ This is so helpful to printers and other devices that you want
 to use very frequency
 
 ## Change the IP in printers
+
+
+## Open the ports to remote access
