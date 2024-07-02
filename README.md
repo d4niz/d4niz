@@ -1,12 +1,4 @@
 ## Welcome, I'm danilppzz
 A passionate backend developer with an innate love for programming and boundless creativity. My innovative approach and solid technical skills drive me to tackle challenges with enthusiasm. Ready to contribute my passion and expertise to challenging projects.
 
-
-<div align='center'>
-  <a href="" target="_blank">
-    <img src="https://hono-badge-api.vercel.app/badge/default?color=white&ct=dark&text=LINKEDIN&rd=false" alt="Portfolio"/>
-  </a>
-  <a href="" target="_blank">
-    <img src="https://hono-badge-api.vercel.app/badge/default?color=cyan&ct=dark&text=TWITTER&rd=false" alt="Portfolio"/>
-  </a>
-</div>
+[![Skills](https://skillicons.dev/icons?i=html,css,git,ts,tailwind,php,cpp,vscode)](https://skillicons.dev/)
