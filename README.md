@@ -4,3 +4,4 @@ A passionate backend developer with an innate love for programming and boundless
 <br>
 
 [![Skills](https://skillicons.dev/icons?i=html,css,git,ts,tailwind,nodejs,go,cpp,vscode)](https://skillicons.dev/)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,git,ts,tailwind,nodejs,go,postgresql,arduino,vscode,bash)](https://skillicons.dev/)
